@@ -8,6 +8,7 @@ h2 {
 	width: 720px;
 	background-color: #e8e8e8;
 	margin-top: 8px;
+	margin-bottom: 8px;
 	padding: 10px;
 }
 .content-wrapper {
@@ -82,7 +83,7 @@ h4.modal-title {
 .footer {
 	font-size: .9em;
 }
-.footer-facebook {
+.share-facebook {
 	float: right;
 	border: none;
 	overflow: hidden;
